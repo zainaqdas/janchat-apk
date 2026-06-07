@@ -1,13 +1,13 @@
 {
   "project_info": {
-    "project_number": "402299450283",
-    "project_id": "janchat-456c0",
-    "storage_bucket": "janchat-456c0.firebasestorage.app"
+    "project_number": "475589235719",
+    "project_id": "janchat2",
+    "storage_bucket": "janchat2.firebasestorage.app"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:402299450283:android:31eb6571607b138ec618ee",
+        "mobilesdk_app_id": "1:475589235719:android:6b918194bca8a7804f46a2",
         "android_client_info": {
           "package_name": "com.call.app"
         }
@@ -15,7 +15,7 @@
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyDEVGrlrUCYzCNEeHL09zWrFR4ciNQHLjc"
+          "current_key": "AIzaSyAOTMyxD1jZlLkAdoRJw2iLUBaP-IcFz8o"
         }
       ],
       "services": {
