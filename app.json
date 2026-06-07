@@ -13,7 +13,10 @@
       "infoPlist": {
         "NSCameraUsageDescription": "This app uses the camera for video calls.",
         "NSMicrophoneUsageDescription": "This app uses the microphone for audio and video calls.",
-        "UIBackgroundModes": ["audio", "remote-notification"]
+        "UIBackgroundModes": [
+          "audio",
+          "remote-notification"
+        ]
       }
     },
     "android": {
@@ -34,7 +37,8 @@
         "android.permission.FOREGROUND_SERVICE_MICROPHONE",
         "android.permission.FOREGROUND_SERVICE_CAMERA",
         "android.permission.BLUETOOTH"
-      ]
+      ],
+      "googleServicesFile": "./google-services.json"
     },
     "plugins": [
       "expo-router",
